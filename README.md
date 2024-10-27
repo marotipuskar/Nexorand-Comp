@@ -1,9 +1,16 @@
 Please visit my Repository name is Nexorand 
+<br/>
 Nexorand repo has all source code
+<br/>
 and in this repo there is an issue while i raising pl thats time
+<br/>
 SO i created another repo with all codes 
+<br/>
 Its link below:
+<br/>
 :- https://github.com/marotipuskar/Nexorand
+<br/>
+vercel:- https://nexorand-git-main-marotipuskars-projects.vercel.app/?vercelToolbarCode=6wdCAys4a5_ajMg
 
 
 # React + Vite
